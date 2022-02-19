@@ -16,7 +16,7 @@ download the `DefaultKeyBinding.dict` file then,
 
 put it here `/Library/KeyBindings/`
 
-The folder doesn ot exist by default. You can run the following command to create it and open the destination.
+The folder does not exist by default. You can run the following command to create it and open the destination.
 
 You must be in the home folder, your path should be `/Users/[something]`
 
