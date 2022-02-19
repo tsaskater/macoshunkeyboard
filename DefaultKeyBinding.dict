@@ -12,5 +12,5 @@
 "@\UF703" = "moveWordForward:"; /* Ctrl + Right */
 "@$\UF703" = "moveWordForwardAndModifySelection:"; /* Shift + Ctrl  + Right */
 "@\UF728" = "deleteWordForward:"; /* Ctrl  + Delete */
-"@\U007F" = "deleteWordBackward:"; /* Cmd  + Backspace */
+"@\U007F" = "deleteWordBackward:"; /* Ctrl  + Backspace */
 }
