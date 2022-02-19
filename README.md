@@ -6,7 +6,7 @@
 
 download the `hun.keylayout` file then,
 
-put it here `/Library/Keyboard Layouts/`
+put it here `/Users/[something]/Library/Keyboard Layouts/`
 
 ### For home the keybindings:
 
@@ -14,7 +14,7 @@ open the terminal and
 
 download the `DefaultKeyBinding.dict` file then,
 
-put it here `/Library/KeyBindings/`
+put it here `/Users/[something]/Library/KeyBindings/`
 
 The folder does not exist by default. You can run the following command to create it and open the destination.
 
