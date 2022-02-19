@@ -19,4 +19,4 @@ Run the following command to create the `KeyBindings` folder with destination op
 `mkdir  ./Library/KeyBindings && open ./Library/KeyBindings`
 
 when the command executes put the `DefaultKeyBinding.dict` file in the newly opened Finder
-
+# If you are modifying the keybindings make sure to restart the pc (or vm, duh)
